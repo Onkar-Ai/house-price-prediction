@@ -1,7 +1,7 @@
 # house-price-prediction
 House Price Prediction using Linear Regression (Sklearn)
-# House Price Prediction
 
+# House Price Prediction
 This project predicts house prices using Linear Regression.
 
 ## Features Used:
